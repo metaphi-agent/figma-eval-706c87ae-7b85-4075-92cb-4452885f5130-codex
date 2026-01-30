@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+/* Design tokens will be extracted from Figma */
+@theme {
+  --font-sans: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --gmail-text-primary: #202124;
+  --gmail-text-black-54: rgba(0, 0, 0, 0.54);
+  --gmail-text-black-37: rgba(0, 0, 0, 0.37);
+  --gmail-text-black-67: rgba(0, 0, 0, 0.67);
+  --gmail-text-black-60: rgba(0, 0, 0, 0.6);
+
+  --gmail-surface-white: #ffffff;
+  --gmail-surface-black-05: rgba(0, 0, 0, 0.05);
+  --gmail-surface-black-16: rgba(0, 0, 0, 0.16);
+
+  --gmail-google-blue: #1a73e8;
+  --gmail-google-red: #ea4335;
+  --gmail-google-green: #34a853;
+  --gmail-google-yellow: #fbbc04;
+
+  --gmail-sidebar-inbox-bg: #fce8e6;
+  --gmail-sidebar-inbox-text: #d93025;
+  --gmail-badge-social: #3474e0;
+  --gmail-badge-forums: #2b973c;
+  --gmail-badge-updates: #d6762d;
+}
+
+body {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  color: var(--gmail-text-primary);
+}
+
+* {
+  box-sizing: border-box;
+}

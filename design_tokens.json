@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "figma_file_key": "yIF0C1zRaEne4emCbwJqSH",
+    "page": "👀 Full UI",
+    "notes": "Token snapshot based on Figma shared styles returned by MCP (fills/text)."
+  },
+  "colors": {
+    "text": {
+      "primary": "#202124",
+      "black54": "rgba(0,0,0,0.54)",
+      "black37": "rgba(0,0,0,0.37)",
+      "black67": "rgba(0,0,0,0.67)",
+      "black60": "rgba(0,0,0,0.60)"
+    },
+    "surface": {
+      "white": "#ffffff",
+      "black05": "rgba(0,0,0,0.05)",
+      "black16": "rgba(0,0,0,0.16)"
+    },
+    "google": {
+      "blue": "#1a73e8",
+      "red": "#ea4335",
+      "green": "#34a853",
+      "yellow": "#fbbc04"
+    },
+    "sidebar": {
+      "inbox_bg": "#fce8e6",
+      "inbox_text": "#d93025",
+      "badge_social": "#3474e0",
+      "badge_forums": "#2b973c",
+      "badge_updates": "#d6762d"
+    }
+  },
+  "typography": {
+    "font_family": "Roboto",
+    "scale": {
+      "h2_1_375em_regular": {
+        "font_size_px": 22,
+        "font_weight": 400
+      },
+      "body_1em_regular": {
+        "font_size_px": 16,
+        "font_weight": 400
+      },
+      "body_0_875em_regular": {
+        "font_size_px": 14,
+        "font_weight": 400
+      },
+      "body_0_875em_medium": {
+        "font_size_px": 14,
+        "font_weight": 500
+      },
+      "caption_0_75em_regular": {
+        "font_size_px": 12,
+        "font_weight": 400
+      },
+      "caption_0_75em_medium": {
+        "font_size_px": 12,
+        "font_weight": 500
+      }
+    }
+  },
+  "effects": {
+    "border_left": "1px inset #edf0f2",
+    "border_bottom": "1px inset #edf0f2"
+  }
+}

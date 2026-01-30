@@ -1,0 +1,25 @@
+{
+  "figma_file_key": "yIF0C1zRaEne4emCbwJqSH",
+  "total_frames": 3,
+  "frames": [
+    {
+      "name": "Full UI / Single / No Draft",
+      "node_id": "212:25782",
+      "gt_image": "212-25782.png",
+      "target_route": "/single"
+    },
+    {
+      "name": "Full UI / Multiple / No Draft",
+      "node_id": "212:32769",
+      "gt_image": "212-32769.png",
+      "target_route": "/multiple"
+    },
+    {
+      "name": "Full UI / Subscription",
+      "node_id": "212:33221",
+      "gt_image": "212-33221.png",
+      "target_route": "/subscription"
+    }
+  ]
+}
+
